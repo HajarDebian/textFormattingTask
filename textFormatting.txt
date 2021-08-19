@@ -1,0 +1,10 @@
+Text Formatting is the way or elements we use to define the text's shape, and to give it a special meaning.
+HTML has some elements that format the text as well, like:
+-<b> & <strong> --> for bold text
+-<i> & <em> --> for italic or emphasized text
+-<mark> --> for highlighted text
+-<small> --> for a text with smaller font size
+-<del> --> for delelted text (has line on it)
+-<ins> --> for inserted text (underlined)
+-<sub> --> for subscript text (lowered down)
+-<sup> --> for superscript text (up above more than the rest of the text)
